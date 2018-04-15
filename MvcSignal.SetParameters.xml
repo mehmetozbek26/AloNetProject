@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/MvcSignal_deploy" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-MvcSignal-20140122093746;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-MvcSignal-20140122093746.mdf" />
+  <setParameter name="TestEntities-Web.config Connection String" value="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=.;Initial Catalog=Test;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework&quot;" />
+</parameters>
